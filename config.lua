@@ -1,5 +1,5 @@
 return {
-	bot_api_key = '226346511:AAG4txlW5mjLEED0XqYuMwBGX8vf7DdTkmI',
+	bot_api_key = '222508412:AAFyRDEgz4_aCZUhOwdDkGCQjst_bAiLWVs',
 	admin = 196560568,
 	log_chat = -1001057801239,
 	channel = '@groupbutler_ch', --channel username with the '@'
