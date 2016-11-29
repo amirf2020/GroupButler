@@ -1,7 +1,7 @@
 return {
-	bot_api_key = '291279378:AAGEmgVZl-pW4bmCy0NHhQxPxvJiOTOYiVg',
-	admin = 283875167,
-	log_chat = -162783435,
+	bot_api_key = '302075657:AAGCxYY8TuDzOXaWFIi0jw-wbZlXyGUhzUs',
+	admin = 283875167,193068389,
+	log_chat = -190806151,
 	channel = '@groupbutler_ch', --channel username with the '@'
 	languages = 'languages.lua',
 	plugins = {
